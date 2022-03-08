@@ -16,7 +16,7 @@ public class EmailBean implements Serializable{
 
 	private static final long serialVersionUID = 4538755582654584073L;
 	
-	private static final String DESTINATARIO = "testejavamailjavaweb@gmail.com";
+	private static final String DESTINATARIO = "saraivafds@gmail.com";
 	
 	private static final String ASSUNTO = "Atualização de senha";
 	
